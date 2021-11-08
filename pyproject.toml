@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "portal_shared"
-version = "0.1.1"
+version = "0.1.2"
 description = "semantic versioning"
 authors = ["freelanceadm"]
 
@@ -11,7 +11,7 @@ build-backend = "poetry.masonry.api"
 [tool.semantic_release]
 version_toml = 'pyproject.toml:tool.poetry.version'
 branch = 'main'
-version_source = 'tag'
+version_source = 'commit'
 build_command = false
 upload_to_pypi = false
 upload_to_release = true
