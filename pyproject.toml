@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "portal_shared"
-version = "0.2.0"
+version = "0.1.1"
 description = "semantic versioning"
 authors = ["freelanceadm"]
 
@@ -14,3 +14,4 @@ branch = 'main'
 version_source = 'tag'
 build_command = false
 upload_to_pypi = false
+upload_to_release = true
