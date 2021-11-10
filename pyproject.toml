@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "portal_shared"
-version = "0.1.4"
+version = "0.1.5"
 description = "semantic versioning"
 authors = ["freelanceadm"]
 
