@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "portal_shared"
+name = "aws_codebuild"
 version = "0.1.8"
 description = "semantic versioning"
 authors = ["freelanceadm"]
